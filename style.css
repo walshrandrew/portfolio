@@ -1,0 +1,21 @@
+body {
+    background-color: lightslategray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16pt;
+    color: black;
+}
+
+h1  {
+    background-color: lightslategray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: black;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: darkred;
+}
