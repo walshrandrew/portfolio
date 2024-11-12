@@ -12,6 +12,13 @@ h1  {
     color: black;
 }
 
+footer {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18pt;
+    color: lightslategray
+}
+
 a:link {
     color: red;
 }
