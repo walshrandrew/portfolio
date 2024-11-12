@@ -6,10 +6,10 @@ body {
 }
 
 h1  {
-    background-color: lightslategray;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: x-large;
-    color: black;
+    background-color: black;
+    font-family: 'Starcraft';
+    font-size:xx-large;
+    color: lightslategray;
 }
 
 footer {
